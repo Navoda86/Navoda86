@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Navoda</h1>
 <h3 align="center">A passionate Backend developer from SriLanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=navoda86&label=Profile%20views&color=0e75b6&style=flat" alt="navoda86" /> </p>
----
-- 🌱 I’m currently learning **.NET ,C#,React,C,ANGULAR**
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=navoda86&label=Profile%20views&color=0e75b6&style=flat" alt="navoda86" /> </p>
+
+- 🌱 I’m currently learning .NET , C# , React , C , ANGULAR
 
 - 💬 Ask me about **C#**
 
